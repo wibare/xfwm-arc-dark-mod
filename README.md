@@ -20,14 +20,16 @@ A collection of custom modifications of the Arc Dark XFWM theme for XFCE. Each f
 Follow these steps to install a theme for your user:
 
 1. Make sure you have a `.themes` directory in your home folder. If not, create it:
+```bash
 mkdir -p ~/.themes
-
+```
 2. Copy the desired theme folder from this repository into `~/.themes`:
+```bash
 cp -r themes/<theme-name> ~/.themes/
+```
 
 3. Open XFCE Settings Manager → Window Manager → Style and select your new theme.
 
 ---
 
 Thank you for checking out these XFWM theme modifications!
-
